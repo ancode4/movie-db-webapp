@@ -1,4 +1,5 @@
 //TESTING GIT - Master
+//Changed on github
 
 document.getElementById('add-button').addEventListener('click', function () {
         var modal = document.getElementById('create-movie-modal')
